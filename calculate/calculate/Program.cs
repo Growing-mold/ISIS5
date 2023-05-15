@@ -75,7 +75,7 @@ namespace calculate
                     }
                     else
                     {
-                        Console.WriteLine("Cannot divide by zero");
+                        Console.WriteLine("Cannot divide by zero!");
                     }
                     break;
                 case '^':
