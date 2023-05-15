@@ -1,0 +1,14 @@
+C:\Users\nkrts\Desktop\учеба22-23\ЛР5\ISIS5\calculate\calculate\bin\Debug\netcoreapp3.1\calculate.exe
+C:\Users\nkrts\Desktop\учеба22-23\ЛР5\ISIS5\calculate\calculate\bin\Debug\netcoreapp3.1\calculate.deps.json
+C:\Users\nkrts\Desktop\учеба22-23\ЛР5\ISIS5\calculate\calculate\bin\Debug\netcoreapp3.1\calculate.runtimeconfig.json
+C:\Users\nkrts\Desktop\учеба22-23\ЛР5\ISIS5\calculate\calculate\bin\Debug\netcoreapp3.1\calculate.runtimeconfig.dev.json
+C:\Users\nkrts\Desktop\учеба22-23\ЛР5\ISIS5\calculate\calculate\bin\Debug\netcoreapp3.1\calculate.dll
+C:\Users\nkrts\Desktop\учеба22-23\ЛР5\ISIS5\calculate\calculate\bin\Debug\netcoreapp3.1\calculate.pdb
+C:\Users\nkrts\Desktop\учеба22-23\ЛР5\ISIS5\calculate\calculate\obj\Debug\netcoreapp3.1\calculate.csproj.AssemblyReference.cache
+C:\Users\nkrts\Desktop\учеба22-23\ЛР5\ISIS5\calculate\calculate\obj\Debug\netcoreapp3.1\calculate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nkrts\Desktop\учеба22-23\ЛР5\ISIS5\calculate\calculate\obj\Debug\netcoreapp3.1\calculate.AssemblyInfoInputs.cache
+C:\Users\nkrts\Desktop\учеба22-23\ЛР5\ISIS5\calculate\calculate\obj\Debug\netcoreapp3.1\calculate.AssemblyInfo.cs
+C:\Users\nkrts\Desktop\учеба22-23\ЛР5\ISIS5\calculate\calculate\obj\Debug\netcoreapp3.1\calculate.csproj.CoreCompileInputs.cache
+C:\Users\nkrts\Desktop\учеба22-23\ЛР5\ISIS5\calculate\calculate\obj\Debug\netcoreapp3.1\calculate.dll
+C:\Users\nkrts\Desktop\учеба22-23\ЛР5\ISIS5\calculate\calculate\obj\Debug\netcoreapp3.1\calculate.pdb
+C:\Users\nkrts\Desktop\учеба22-23\ЛР5\ISIS5\calculate\calculate\obj\Debug\netcoreapp3.1\calculate.genruntimeconfig.cache

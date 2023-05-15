@@ -18,7 +18,7 @@ namespace calculate
                 }
                 else
                 {
-                    Console.WriteLine("Invalid input. Please enter a valid number.");
+                    Console.WriteLine("Invalid input. Please, enter a valid number.");
                 }
             } while (!validInput);
             validInput = false;
@@ -31,7 +31,7 @@ namespace calculate
                 }
                 else
                 {
-                    Console.WriteLine("Invalid input. Please enter a valid number.");
+                    Console.WriteLine("Invalid input. Please, enter a valid number.");
                 }
             } while (!validInput);
             validInput = false;
